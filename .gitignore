@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+.build/
+*.dSYM/
+*.xcuserstate
+DerivedData/
+/StudyDesk-Email.md
+/StudyDesk-Study-Group.md
